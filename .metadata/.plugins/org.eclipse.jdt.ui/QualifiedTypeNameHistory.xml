@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.apache.http.impl.client.CloseableHttpClient"/>
+    <fullyQualifiedTypeName name="org.apache.http.impl.client.HttpClients"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpClient"/>
+    <fullyQualifiedTypeName name="org.apache.http.client.HttpClient"/>
+</qualifiedTypeNameHistroy>

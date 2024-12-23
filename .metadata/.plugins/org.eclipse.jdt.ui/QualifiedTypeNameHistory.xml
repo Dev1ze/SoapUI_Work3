@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="org.apache.http.impl.client.HttpClients"/>
     <fullyQualifiedTypeName name="java.net.http.HttpClient"/>
     <fullyQualifiedTypeName name="org.apache.http.client.HttpClient"/>
+    <fullyQualifiedTypeName name="com.ibm.mq.jms.MQQueue"/>
+    <fullyQualifiedTypeName name="javax.jms.MessageListener"/>
+    <fullyQualifiedTypeName name="com.ibm.mq.jms.MQQueueSender"/>
 </qualifiedTypeNameHistroy>
